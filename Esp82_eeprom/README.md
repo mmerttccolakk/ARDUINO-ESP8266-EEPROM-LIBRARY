@@ -1,4 +1,5 @@
-# Arduino library for Esp8266_eeprom
+# ARDUINO-ESP8266-EEPROM-LIBRARY
+ESP8266 Arduino EEPROM LIBRARY
 
 
 A project by [MERT COLAK]()
