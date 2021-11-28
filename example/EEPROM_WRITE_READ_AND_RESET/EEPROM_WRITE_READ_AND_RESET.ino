@@ -1,4 +1,4 @@
-#include "esp82_eeprom.h"
+#include "esp82_eeprom.h" //https://github.com/mmerttccolakk/ARDUINO-ESP8266-EEPROM-LIBRARY
 
 
 void setup() {
@@ -15,7 +15,8 @@ void setup() {
   Serial.println("reading from eprom");
   Serial.println(reading);
   
-  void eprom_reset();//eeprom reset
+  //eeprom reset
+  //void eprom_reset();
 }
 
 void loop() {
